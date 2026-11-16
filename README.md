@@ -17,7 +17,7 @@ The printed QR code never changes.
 
 ## See scan counts
 
-https://iceandclimate.goatcounter.com — each file shows up as its own path (e.g. `/licor`).
+https://willkochtitzky.goatcounter.com — each file shows up as its own path (e.g. `/licor`).
 
 ## Add another QR code
 
